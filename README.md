@@ -15,22 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Software Engineer who loves to create and share projects about mobile and web technology! I've enjoyed with Kotlin and make it the main language in creating a project.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
-
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
+- 🔭 I’m currently open to bids
+- 🌱 I’m currently and familiar learning about mobile technology for Android Apps
+- 🌱 I’m still learning about cloud technology for back-end apps
+- 💬 Feel free to ask me about Android development or kotlin language
+- ⚡ Fun fact: Single and need much job
 
 ### Tech Stack
+  <a href="https://kotlinlang.org/"><img align="left" alt="Next" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png?20171012085709" /></a>
+  <a href="https://www.python.org/"><img align="left" alt="Next" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png?20220821155029" /></a>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://go.dev/"><img align="left" alt="Go" title="Go" width="21px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" /></a>
+  <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java" width="21px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
   <br>
   <br>
   
