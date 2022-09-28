@@ -45,4 +45,4 @@ An independent Software Engineer who loves to create and share projects about mo
 
 ### Reach me on
 - <a href="https://linkedin.com/in/riezki-maisyar/">LinkedIn</a>
-- <a href="https://Instagram.com/riezkymr">Riezkymr</a>
+- <a href="https://Instagram.com/riezkymr">Instagram</a>
