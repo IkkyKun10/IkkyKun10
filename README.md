@@ -21,7 +21,7 @@ An independent Software Engineer who loves to create and share projects about mo
 - 🌱 I’m currently and familiar learning about mobile technology for Android Apps
 - 🌱 I’m still learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about Android development or kotlin language
-- ⚡ Fun fact: Single and need much job
+- ⚡ Fun fact: Single
 
 ### Tech Stack
   <a href="https://kotlinlang.org/"><img align="left" alt="Next" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png?20171012085709" /></a>
