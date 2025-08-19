@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 An independent Software Engineer who loves to create and share projects about mobile and web technology! I've enjoyed with Kotlin and make it the main language in creating a project.
 
 - 🔭 I’m currently open to bids
-- 🌱 Currently working as a Mobile Developer with native kotlin and kotlin multiplatform technology
-- 🌱 Enthusiastic for back-end apps with Springboot Framework
+- 🧑🏻‍💻 Currently working as a Mobile Developer with native kotlin and kotlin multiplatform technology
+- 🧑🏻‍💻 Enthusiastic for back-end apps with Springboot Framework
 - 💬 Feel free to ask me about Mobile development or Kotlin language
 
 ### Tech Stack
