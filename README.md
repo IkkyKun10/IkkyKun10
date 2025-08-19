@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 An independent Software Engineer who loves to create and share projects about mobile and web technology! I've enjoyed with Kotlin and make it the main language in creating a project.
 
 - 🔭 I’m currently open to bids
-- 🌱 I’m currently and familiar learning about mobile technology for Android Apps
-- 🌱 I’m still learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about Android development or kotlin language
+- 🌱 Currently working as a Mobile Developer with native kotlin and kotlin multiplatform technology
+- 🌱 Enthusiastic for back-end apps with Springboot Framework
+- 💬 Feel free to ask me about Mobile development or Kotlin language
 
 ### Tech Stack
   <a href="https://kotlinlang.org/"><img align="left" alt="Next" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png?20171012085709" /></a>
